@@ -55,12 +55,12 @@ All the text generation happens in this [notebook](https://github.com/sajidahmed
 
 # GPT-2 language Model Dialogue Generation Performace 
 
-* Perplexity 
+## Perplexity 
 <p align="left">
   <img src=doc/LaTexSourceFiles/images/GPTPerp.png>  
 </p>
 
-* Loss 
+## Model Loss 
 <p align="left">
   <img src=doc/LaTexSourceFiles/images/GPTLoss.PNG>  
 </p>
