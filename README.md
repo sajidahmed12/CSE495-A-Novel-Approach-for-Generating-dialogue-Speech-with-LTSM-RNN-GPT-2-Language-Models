@@ -40,7 +40,11 @@ All the csv files we have used are available [here](https://github.com/sajidahme
 
 We have also created a network graph using the character interaction I obtained from the dialogues. You can play with it in the following link:
 
-[Graph](https://bl.ocks.org/chrismartinezb/e35f6c6b7a4def1dc56eea92d8897d40/ee9d335a443b042fc20c2f2eb0d55e9997d2f2b9)
+[Graph]
+<p align="left">
+  <img src=doc/graph.JPG>  
+</p>
+
 
 
 ## Dialogue generation.
