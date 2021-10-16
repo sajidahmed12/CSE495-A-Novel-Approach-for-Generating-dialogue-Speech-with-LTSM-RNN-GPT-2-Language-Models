@@ -61,8 +61,8 @@ So What we have done so far !!
 
 # Submitted by group Members
 
-- [Md.Sajid Ahmed -1610364042]
-- [Arifuzzaman Arman  -1610551042]
+- [Md.Sajid Ahmed -1610364042](https://github.com/sajidahmed12])
+- [Arifuzzaman Arman  -1610551042](https://github.com/ZahinAkram)
 - [Zahin Akram 1610618042]
 - [Md Rakib Imtiaz - 1610294042]
 
