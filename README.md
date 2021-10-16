@@ -1,4 +1,4 @@
-# A-Novel-Approach-for-Generating-dialogue-Speech-with-LTSM-RNN-GPT-2-Language-Models
+# A Novel Approach for Generating Dialogue Scripts with Seq-to-seq models and OpenAI's GPT-2 Language Model
 Analysis of GoT dialogues using NLP techniques. 
 
 The main question we would like to answear is how dialogues relate characters in GoT series, and what we can learn from those relationships and weather or not using a neural network to generate dialogues will be a viable thing to do. 
