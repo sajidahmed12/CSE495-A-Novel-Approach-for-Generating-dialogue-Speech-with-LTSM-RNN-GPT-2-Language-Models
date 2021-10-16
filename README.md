@@ -19,10 +19,11 @@ This project requires **Python 3.6+** and the following Python libraries install
 
 ## Data
 
-I obtained the raw dialogues from [Genius.com](https://genius.com/artists/Game-of-thrones), these were trancribed by volunteers, so not all
-seasons are there and of course you will found some mistakes, but is the best there is. Also I encourage you to participate and transcribe some dialogues yourself, it will be so cool to have all the seasons transcribed for further analysis. 
+We have obtained the raw dialogues from [Genius.com](https://genius.com/artists/Game-of-thrones), these were trancribed by volunteers, so not all
+seasons are there and of course there will be some mistakes, but is the best there is.
 
-All the csv files I will use are available [here](https://github.com/chrismartinezb/Game-of-thrones-analysis/tree/master/CSV), and you can find how I transform the raw text into a more useful csv in the [Final_Pipeline](https://github.com/chrismartinezb/Game-of-thrones-analysis/blob/master/Final_Pipeline.ipynb) notebook.
+All the csv files we have used are available [here](https://github.com/sajidahmed12/CSE495-A-Novel-Approach-for-Generating-dialogue-Speech-with-LTSM-RNN-GPT-2-Language-Models/tree/main/Game-of-thrones-analysis/tree/master/CSV), and you can find how we have transformed the raw text into a more useful csv in the 
+[Final_Pipeline](https://github.com/sajidahmed12/CSE495-A-Novel-Approach-for-Generating-dialogue-Speech-with-LTSM-RNN-GPT-2-Language-Models/tree/main/Game-of-thrones-analysis/blob/master/Final_Pipeline.ipynb) notebook.
 
 ## File description.
 
@@ -32,12 +33,12 @@ All the csv files I will use are available [here](https://github.com/chrismartin
 
 [GoT](https://github.com/sajidahmed12/CSE495-A-Novel-Approach-for-Generating-dialogue-Speech-with-LTSM-RNN-GPT-2-Language-Models/tree/main/Game-of-thrones-analysis/tree/master/GoT): All raw form of chapter scripts obtained from [Genius.com](https://genius.com/artists/Game-of-thrones).
 
-[CSV](https://github.com/sajidahmed12/CSE495-A-Novel-Approach-for-Generating-dialogue-Speech-with-LTSM-RNN-GPT-2-Language-Models/tree/main/Game-of-thrones-analysis/tree/master/CSV): Three CSV files, if you want to follow all the data cleaning I did you need them. 4 columns they contain: Character, dialogue, season and chapter. The rows vary from file to file but around 14K. 
+[CSV](https://github.com/sajidahmed12/CSE495-A-Novel-Approach-for-Generating-dialogue-Speech-with-LTSM-RNN-GPT-2-Language-Models/tree/main/Game-of-thrones-analysis/tree/master/CSV): Three CSV files, if you want to follow all the data cleaning we did it foryou if need. 4 columns they contain: Character, dialogue, season and chapter. The rows vary from file to file but around 14K. 
 
 
 ## Network Graph
 
-I created a network graph using the character interaction I obtained from the dialogues. You can play with it in the following link:
+We have also created a network graph using the character interaction I obtained from the dialogues. You can play with it in the following link:
 
 [Graph](https://bl.ocks.org/chrismartinezb/e35f6c6b7a4def1dc56eea92d8897d40/ee9d335a443b042fc20c2f2eb0d55e9997d2f2b9)
 
