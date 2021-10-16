@@ -62,17 +62,17 @@ All the text generation happens in this [notebook](https://github.com/sajidahmed
 
 * Loss 
 <p align="left">
-  <img src=doc/LaTexSourceFiles/images/GPTLoss.png>  
+  <img src=doc/LaTexSourceFiles/images/GPTLoss.PNG>  
 </p>
 
 # Some Generated Dialogue Samples 
 
 <p align="left">
-  <img src=doc/speech\sample\100.JPG>  
+  <img src=doc/speechsample100.JPG>  
 </p>
 
 <p align="left">
-  <img src=doc/speech\sample\50.JPG>  
+  <img src=doc/speechsample50.JPG>  
 </p>
 
 So What we have done so far !! 
