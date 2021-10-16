@@ -53,6 +53,28 @@ All the text generation happens in this [notebook](https://github.com/sajidahmed
 
 ## To Run The Source .py or ipynb Files Follow the instructions written in runmeforallwork.ipynb and then we can easily test and also train our 3 implementions Of Our NLP Project. 
 
+# GPT-2 language Model Dialogue Generation Performace 
+
+* Perplexity 
+<p align="left">
+  <img src=doc/LaTexSourceFiles/images/GPTPerp.png>  
+</p>
+
+* Loss 
+<p align="left">
+  <img src=doc/LaTexSourceFiles/images/GPTLoss.png>  
+</p>
+
+# Some Generated Dialogue Samples 
+
+<p align="left">
+  <img src=doc/speech\sample\100.JPG>  
+</p>
+
+<p align="left">
+  <img src=doc/speech\sample\50.JPG>  
+</p>
+
 So What we have done so far !! 
 * 1. LSTM Model
 * 2. RNN seq-to-seq Model
