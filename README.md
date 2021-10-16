@@ -3,7 +3,7 @@ Analysis of GoT dialogues using NLP techniques.
 
 The main question we would like to answear is how dialogues relate characters in GoT series, and what we can learn from those relationships and weather or not using a neural network to generate dialogues will be a viable thing to do. 
 
-# Install
+# Required Libraries to install
 
 This project requires **Python 3.6+** and the following Python libraries installed:
 
@@ -17,7 +17,7 @@ This project requires **Python 3.6+** and the following Python libraries install
 - [nltk](https://www.nltk.org/install.html)
 - [genism](https://radimrehurek.com/gensim/install.html)
 
-## Data
+# Dataset
 
 We have obtained the raw dialogues from [Genius.com](https://genius.com/artists/Game-of-thrones), these were trancribed by volunteers, so not all
 seasons are there and of course there will be some mistakes, but is the best there is.
@@ -38,18 +38,15 @@ All the csv files we have used are available [here](https://github.com/sajidahme
 
 ## Network Graph
 
-We have also created a network graph using the character interaction I obtained from the dialogues. You can play with it in the following link:
-
-[Graph]
+We have also created a network graph using the character interaction obtained from the dialogues.
 <p align="left">
   <img src=doc/graph.JPG>  
 </p>
 
 
-
 ## Dialogue generation.
 
-All the text generation happens in this [notebook](https://github.com/sajidahmed12/CSE495-A-Novel-Approach-for-Generating-dialogue-Speech-with-LTSM-RNN-GPT-2-Language-Models/tree/main/Game-of-thrones-analysis/blob/master/GoT%20dialogue%20generator%20(1).ipynb)
+All the text generation happens in this [notebook](https://github.com/sajidahmed12/CSE495-A-Novel-Approach-for-Generating-dialogue-Speech-with-LTSM-RNN-GPT-2-Language-Models/blob/main/Game-of-thrones-analysis/GoT%20dialogue%20generator.ipynb)
 
 # Model Training 
 ## To the Ipython notebook to "RUN ALL models test and train"
