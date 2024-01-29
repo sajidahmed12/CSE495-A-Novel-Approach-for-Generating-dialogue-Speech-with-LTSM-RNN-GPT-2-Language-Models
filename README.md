@@ -1,4 +1,4 @@
-# A Novel Approach for Generating Dialogue Scripts with Seq-to-seq models and OpenAI's GPT-2 Language Model
+# ConvoCraft: AI-Powered Dialogue Generator with GPT-2 Language Model
 
 This project involves the analysis of dialogues from the Game of Thrones (GoT) series using NLP techniques. The main objective is to explore how dialogues relate to characters in the series and derive insights from these relationships. Additionally, the project investigates the feasibility of using neural networks to generate dialogue scripts.
 
