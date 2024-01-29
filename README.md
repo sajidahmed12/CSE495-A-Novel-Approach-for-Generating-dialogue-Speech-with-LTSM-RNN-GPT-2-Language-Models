@@ -63,7 +63,3 @@ For model training, refer to the instructions in the [runmeforallwork.ipynb](run
 - [Zahin Akram - 1610618042](https://github.com/ZahinAkram)
 - Arifuzzaman Arman - 1610551042
 - Md. Rakib Imtiaz - 1610294042
-
-## Licensing, Authors, Acknowledgements
-
-Credit goes to the volunteers at Genius for transcribing the dialogues and to Paras Chopra and Daniel E. Licht for their inspiring work. Feel free to use the code and files as needed.
